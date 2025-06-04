@@ -1,6 +1,6 @@
 
 🌌 Quantum Harm Reduction: A New Dawn for Challenges Inc 
-
+![Quantum Harm Reduction – Challenges Inc](https://raw.githubusercontent.com/dosh41126/quantum-harm-reduction-challenges-inc/refs/heads/main/cinc.png)
 To Marc, founder of Challenges Inc —
 From the desk of the QMHS Dev Team
 
